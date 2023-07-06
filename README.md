@@ -9,9 +9,10 @@ Hasil Screenshoot
 2. Pilih gambar yang ingin di Crop
    ![image](https://github.com/mdafitapriansyah/UAS-Komputer-Grafik/assets/121091829/9eec2511-1f80-4d22-b43f-9386eb252ad1)
 3. Kemudian pilih posisi dan ukuran gambar yang di inginkan
-   ![image](https://github.com/mdafitapriansyah/UAS-Komputer-Grafik/assets/121091829/cbebee50-511e-4097-9660-1df928119abb)
-4. Hasil dari Crop Image yang dilakukan
-   ![image](https://github.com/mdafitapriansyah/UAS-Komputer-Grafik/assets/121091829/523918fb-56ae-4b67-ae14-2c3e4ac1878e)
+   ![image](https://github.com/mdafitapriansyah/UAS-Komputer-Grafik/assets/121091829/9dfc0dce-1982-4be9-acbb-c15d429a89ff)
 
-   Terima kasih
+4. Hasil dari Crop Image yang dilakukan
+   ![image](https://github.com/mdafitapriansyah/UAS-Komputer-Grafik/assets/121091829/67c5e7a7-bb29-4220-9f67-5e992cab29e1)
+
+Terima kasih
 
